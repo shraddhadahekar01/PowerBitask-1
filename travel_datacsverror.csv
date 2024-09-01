@@ -1,0 +1,32 @@
+itinerary_id,destination,start_date,end_date,activities,accommodation,transportation,budget
+1,"Paris, France",9/10/2024,9/17/2024,"Eiffel Tower, Louvre Museum, Seine River Cruise",Hotel Le Meurice,"Flight, Metro",2500
+2,"Kyoto, Japan",10/5/2024,10/12/2024,"Fushimi Inari Shrine, Arashiyama Bamboo Grove, Kinkaku-ji Temple",Kyoto Royal Hotel,"Flight, Shinkansen",2200
+3,"New York City, USA",11/1/2024,11/7/2024,"Statue of Liberty, Central Park, Broadway Show",The Plaza Hotel,"Flight, Subway",3000
+4,"Santorini, Greece",9/20/2024,9/27/2024,"Oia Sunset, Wine Tasting, Boat Tour",Canaves Oia Hotel,"Flight, Ferry",2800
+5,"Sydney, Australia",12/1/2024,82/10/204,"Sydney Opera House, Bondi Beach, Blue Mountains",Park Hyatt Sydney,xyz,3500
+6,"Cape Town, South Africa",11/15/2024,11/23/2024,"Table Mountain, Robben Island, Cape Winelands",One&Only Cape Town,"Flight, Car Rental",3200
+7,"Rio de Janeiro, Brazil",9/5/2024,9/12/2024,"Christ the Redeemer, Sugarloaf Mountain, Copacabana Beach",Belmond Copacabana Palace,"Flight, Taxi",2900
+8,"Rome, Italy",10/15/2024,10/22/2024,"Colosseum, Vatican Museums, Trevi Fountain",Hotel Eden Rome,"Flight, Metro",2600
+9,"Banff, Canada",8/25/2024,9/1/2024,"Lake Louise, Banff Gondola, Johnston Canyon",Fairmont Banff Springs,"Flight, Car Rental",2700
+10,"Bali, Indonesia",12/5/2024,12/12/2024,"Uluwatu Temple, Tegalalang Rice Terrace, Monkey Forest",The Mulia Bali,"Flight, Scooter",2400
+11,"Istanbul, Turkey",9/10/2024,9/17/2024,"Hagia Sophia, Grand Bazaar, Bosphorus Cruise",Ciragan Palace Kempinski,"Flight, Tram",2500
+12,"Dubai, UAE",10/1/2024,10/8/2024,"Burj Khalifa, Desert Safari, Dubai Mall",Burj Al Arab,"Flight, Taxi",4000
+13,"Marrakech, Morocco",11/10/2024,11/17/2024,"Jemaa el-Fnaa, Majorelle Garden, Atlas Mountains",La Mamounia,"Flight, Camel Ride",2600
+14,"Queenstown, New Zealand",10/20/2024,10/28/2024,"Milford Sound, Bungee Jumping, Wine Tasting",Eichardt Private Hotel,"Flight, Car Rental",3200
+15,"Barcelona, Spain",12/1/2024,12/8/2024,"Sagrada Familia, Park Güell, La Rambla",Hotel Arts Barcelona,"Flight, Metro",2700
+16,"Maui, Hawaii, USA",11/5/2024,11/12/2024,"Road to Hana, Haleakalā National Park, Snorkeling",Four Seasons Resort Maui,"Flight, Car Rental",3500
+17,"Vienna, Austria",9/25/2024,10/2/2024,"Schönbrunn Palace, Vienna State Opera, Belvedere Museum",Hotel Sacher Vienna,"Flight, Tram",2800
+18,"Cusco, Peru",8/20/2024,8/27/2024,"Machu Picchu, Sacred Valley, Sacsayhuamán",Belmond Hotel Monasterio,"Flight, Train",3000
+19,"Reykjavik, Iceland",10/15/2024,10/22/2024,"Blue Lagoon, Golden Circle, Northern Lights",Hotel Borg,"Flight, Car Rental",3300
+20,"Prague, Czech Republic",11/25/2024,12/2/2024,"Prague Castle, Charles Bridge, Old Town Square",Four Seasons Hotel Prague,"Flight, Tram",2500
+21,"Edinburgh, Scotland",9/15/2024,9/22/2024,"Edinburgh Castle, Royal Mile, Arthur Seat",The Balmoral Hotel,"Flight, Bus",2600
+22,"Kyoto, Japan",12/15/2024,12/22/2024,"Fushimi Inari Shrine, Arashiyama Bamboo Grove, Gion District","The Ritz-Carlton, Kyoto","Flight, Shinkansen",2900
+23,"Santorini, Greece",8/10/2024,8/17/2024,"Oia, Fira, Akrotiri",Grace Hotel Santorini,"Flight, Ferry",3000
+24,"Buenos Aires, Argentina",10/5/2024,10/12/2024,"La Boca, Tango Show, Palermo",Alvear Palace Hotel,"Flight, Subway",2400
+25,"Sydney, Australia",9/1/2024,9/10/2024,"Sydney Harbour, Taronga Zoo, Manly Beach",Shangri-La Hotel Sydney,"Flight, Ferry",3500
+26,"Hanoi, Vietnam",11/15/2024,11/22/2024,"Halong Bay, Old Quarter, Hoan Kiem Lake",Sofitel Legend Metropole Hanoi,"Flight, Taxi",2200
+27,"Vancouver, Canada",8/5/2024,8/12/2024,"Stanley Park, Capilano Suspension Bridge, Granville Island",Fairmont Pacific Rim,"Flight, Car Rental",2900
+28,"Cape Town, South Africa",9/10/2024,9/17/2024,"Table Mountain, Victoria & Alfred Waterfront, Kirstenbosch Gardens",The Twelve Apostles Hotel,"Flight, Car Rental",3200
+error,6,1/7/1900,error,error,8,uyy,0
+29,"Rome, Italy",10/15/2024,10/22/2024,"Vatican City, Pantheon, Spanish Steps",Hotel de Russie,"Flight, Metro",2700
+30,"Bali, Indonesia",11/20/2024,11/27/2024,"Ubud, Nusa Penida, Tanah Lot",Amankila Bali,"Flight, Scooter",xyz
